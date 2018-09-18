@@ -1,5 +1,6 @@
-package citek;
+package citeck;
 
+import citeck.ArraySolution;
 import java.util.Arrays;
 import org.junit.After;
 import org.junit.AfterClass;

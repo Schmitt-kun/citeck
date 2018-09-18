@@ -1,4 +1,4 @@
-package citek;
+package citeck;
 
 /**
  *

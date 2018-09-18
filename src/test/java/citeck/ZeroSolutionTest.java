@@ -1,8 +1,9 @@
 /*
  * 
  */
-package citek;
+package citeck;
 
+import citeck.ZeroSolution;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
